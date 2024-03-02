@@ -1,8 +1,11 @@
 Stock Price Prediction Script README
+
 Overview
+
 This script is designed to predict stock prices using historical stock data and incorporating macroeconomic indicators like GDP growth rate and inflation. It utilizes the Bayesian modeling approach with the brms package in R, allowing for a comprehensive analysis that includes uncertainty quantification through credible intervals. The model also considers non-linear trends and autocorrelation in the stock prices over time.
 
 Dependencies
+
 The script requires the following R packages:
 
 quantmod: For fetching historical stock data.
