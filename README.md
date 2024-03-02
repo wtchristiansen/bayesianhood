@@ -1,5 +1,8 @@
 Stock Price Prediction Script README
 
+<a href="https://zenodo.org/doi/10.5281/zenodo.10750026"><img src="https://zenodo.org/badge/766041584.svg" alt="DOI"></a>
+
+
 Overview
 
 This script is designed to predict stock prices using historical stock data and incorporating macroeconomic indicators like GDP growth rate and inflation. It utilizes the Bayesian modeling approach with the brms package in R, allowing for a comprehensive analysis that includes uncertainty quantification through credible intervals. The model also considers non-linear trends and autocorrelation in the stock prices over time.
