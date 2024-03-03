@@ -35,7 +35,6 @@ Fit the model using the brms package.
 Generate posterior predictions and credible intervals.
 Visualization:
 Visualize historical fit and future predictions with credible intervals.
-Apply a custom theme for visualization inspired by The Economist.
 Running the Script
 Ensure all dependencies are installed.
 Update the symbol, start_date, and end_date variables to fetch stock data for your stock of interest and the desired time frame.
